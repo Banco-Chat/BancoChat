@@ -82,6 +82,9 @@ Usuario -> POST /chat/sessions/:id/messages
 
 Se necesitan dos procesos corriendo en paralelo: el backend (API + agente) y el frontend (Angular).
 
+El usuario y contraseña para el acceso a la página son: 
+mlopez  - password123
+
 ### Requisitos previos
 
 - Node.js >=22.12.0
